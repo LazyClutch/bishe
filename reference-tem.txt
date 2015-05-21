@@ -6,3 +6,5 @@
 【6】iOS - 维基百科，自由的百科全书 http://zh.wikipedia.org/wiki/IOS
 【7】Xcode - 维基百科，自由的百科全书 Xcode - 维基百科，自由的百科全书
 [8]Xcode概览：关于Xcode - CocoaChina 苹果开发中文站 http://www.cocoachina.com/ios/20141201/10360.html
+【9】Objective-C - 维基百科，自由的百科全书 http://zh.wikipedia.org/wiki/Objective-C
+【10】Automatic Reference Counting - Wikipedia, the free encyclopedia http://en.wikipedia.org/wiki/Automatic_Reference_Counting
