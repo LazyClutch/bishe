@@ -3,3 +3,6 @@
 【3】二手车_百度百科 http://baike.baidu.com/link?url=7biiu2Q0i7z5kZMfkyMP5clBSi4rWyr2wz5gLHbgpeApvzZ3cVfTvvuOSjaiLXFxawp6nF_NyoMbv2y0HehTra
 【4】我国二手车市场分析 http://www.cnki.com.cn/Article/CJFDTOTAL-WXHK201402167.htm
 【5】[原创]二手车APP怎么不好用？http://news.taoche.com/hangqing/2014-04/131252404.shtml
+【6】iOS - 维基百科，自由的百科全书 http://zh.wikipedia.org/wiki/IOS
+【7】Xcode - 维基百科，自由的百科全书 Xcode - 维基百科，自由的百科全书
+[8]Xcode概览：关于Xcode - CocoaChina 苹果开发中文站 http://www.cocoachina.com/ios/20141201/10360.html
